@@ -501,8 +501,8 @@ export default function Component() {
                   >
                     <Image
                       src="/portrait-smiling-afro-american-male-photographer.jpg"
-                      width="600"
-                      height="600"
+                      width="500"
+                      height="500"
                       alt="Professional photographer at work"
                       className="mx-auto aspect-square overflow-hidden rounded-3xl object-cover shadow-2xl shadow-blue-500/25 "
                     />

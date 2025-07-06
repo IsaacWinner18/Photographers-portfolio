@@ -500,7 +500,7 @@ export default function Component() {
                     transition={{ duration: 0.3 }}
                   >
                     <Image
-                      src="https://res.cloudinary.com/dkfmaqtpy/image/upload/v1751643298/man-holding-camera-removebg-preview_wt65bl.png"
+                      src="/portrait-smiling-afro-american-male-photographer.jpg"
                       width="600"
                       height="600"
                       alt="Professional photographer at work"
